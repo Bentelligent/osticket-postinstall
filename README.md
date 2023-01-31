@@ -43,11 +43,12 @@ The setup is complete and now comes the assignments of users and their roles. He
 <p>
 With the osTicket set up and the users are created, the ticketing system is now ready for creation. We will have a user create a ticket. This particular ticket is more  of a general question for a supervisor to answer. Here they can add their issue and it would up to the Dept. Head or Supervisor to determine whether or not this is a top priority. But seeing as this is a general question, it's likely to have the lowest priority. 
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/c2r9Y4c.png" height="60%" width="60%" alt="Ticketing Cycle"/>
 </p>
 <p>
-After showing the process of the ticketing system, it's time to show the Security Levels and Teams. As mentioned in the previous objective, an Admin has the Security level to send a ticket to whichever department or team the ticket needs to complete said ticket. Some departments are available to all but others are for certain teams and users. 
+After showing the process of the ticketing system, it's time to show the Security Levels and Teams. As mentioned in a previous objective, an Admin has the Security level to send a ticket to whichever department or team the ticket needs to complete said ticket. Some departments are available to all but others are for certain teams and users. Whenever it's sent, it's up to the Dept. Head to prioritize the urgency of the ticket.
 </p>
 <br />
