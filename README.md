@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/XvfoVLf" height="80%" width="80%" alt="VM Installation"/>
+<img src="https://i.imgur.com/XvfoVLf.png" height="80%" width="80%" alt="VM Installation"/>
 </p>
 <p>
 The setup is complete and now comes the assignments of users and their roles. Here we establish a few users with their own logins and create a heirarchy. An "admin" user is created to show the features they have to navigate through osTicket. Another user that is created is not an admin but can use their features in their respective roles to create tickets. Once the ticket is sent out, the admin can send it to whichever team or role is able to fullfil the ticket and at what priority the ticket is assigned to be. Obviously this is for demonstration to show how the tickets are processed so no work is actually done to complete the ticket.
